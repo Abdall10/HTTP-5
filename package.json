@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
+    "@headlessui/react": "^2.2.0",
     "@neondatabase/serverless": "^0.10.3",
     "@privy-io/react-auth": "^1.93.0",
     "@radix-ui/react-dialog": "^1.1.2",
